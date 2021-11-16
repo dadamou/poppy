@@ -82,10 +82,10 @@
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "20",
-        "button URL": "com.kiloo.subwaysurf"
+        "button URL": "https://smrturl.co/a041404"
       },
 	{
         "image": "https://i.snipboard.io/ZSEzI6.jpg",
@@ -95,10 +95,10 @@
         "VIP": "false",
         "ID": "2",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://i.snipboard.io/Vpu3tA.jpg",
