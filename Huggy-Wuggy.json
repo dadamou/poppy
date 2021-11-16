@@ -75,10 +75,10 @@
     },
     "items": [
       {
-        "image": "https://dadamou.github.io/poppy/Poppy-Playtime.png",
-        "title": "Welcome",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "image": "https://i.snipboard.io/OdWMb0.jpg",
+        "title": "Welcome to Playtime",
+        "guide": "<p>Won&apos;t you stick around? There&apos;s lots of fun in store for you. It&apos;s almost Playtime...</p><p>You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned toy factory. Use your GrabPack to hack electrical circuits or nab anything from afar. Explore the mysterious facility... and don&apos;t get caught.</p>",
+        "guide 2": "<p>The game currently includes the first chapter. Any future chapters will also cost $4.99 and will be in the form of DLC.</p><p><br></p><p>Welcome to Playtime Co.!</p><p><br></p><p>Playtime Co. was once the king of the toy manufacturing industry... until everybody inside of the factory one day disappeared into thin air. Now, years later, you must explore the abandoned factory and uncover the truth.</p>",
         "VIP": "false",
         "ID": "1",
 		
@@ -87,11 +87,11 @@
         "button text size": "20",
         "button URL": "com.kiloo.subwaysurf"
       },
-      {
-        "image": "https://dadamou.github.io/poppy/mqdefault.jpg",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+	{
+        "image": "https://i.snipboard.io/ZSEzI6.jpg",
+        "title": "about ",
+        "guide": "<p>This amazing GrabPack is a wearable backpack, accompanied by 2 artificial hands attached via a steel wire. With this handy, state-of-the-art tool, there&apos;s no limit to what Playtime Co. employees can accomplish! The following list of features should help to show you what the GrabPack has to offer.</p><p><br></p><p>The hands&apos; powerful grip allows for the movement of heavy objects with ease!</p><p>A lengthy and flexible wire gives any employee the ability to reach whatever they may need, no matter the distance!</p><p>The steel wire makes conducting electricity a breeze!</p><p>The only limit is the length of your GrabPack&apos;s wire.</p><p><br></p><p>Won&apos;t you stick around? There&apos;s lots of fun in store for you. It&apos;s almost Playtime...</p>",
+        "guide 2": "SORRY! The application still not found on android device. Link APPLICATION",
         "VIP": "false",
         "ID": "2",
 		
@@ -101,56 +101,108 @@
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
-        "image": "https://dadamou.github.io/poppy/Poppy-Playtime.png",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "image": "https://i.snipboard.io/Vpu3tA.jpg",
+        "title": "Informaitions :",
+        "guide": "<p><br></p><p>Information :&nbsp;</p><p>Thank you for downloading our guide that will help you to know everything about your favorite application. Tap Next</p><p><br></p><p>This guide will provide you with some tips to know how to get the application on your device and how to use it easily. Tap Next</p><p><br></p><p>SURPRISE! Don&apos;t worry this guide is not only for reading but will help you to download your app and install it on your device.</p>",
+        "guide 2": "Tap Next",
         "VIP": "false",
         "ID": "3",
 		
-        "show button": "false",
-        "button text": "click here",
+        "show button": "true",
+        "button text": "Next",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
-        "image": "https://dadamou.github.io/new-good/iconc.png",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "image": "https://i.snipboard.io/HS4naB.jpg",
+        "title": "Poppy Playtime Season 2 : OFFICIAL APP",
+        "guide": "<p>Poppy Playtime is a pay-to-play horror adventure game from MOB Games. A spooky action title, it was released on the 12th of October, making it in time for the Halloween season. Players are tasked with surviving in an abandoned toy factory that is overrun by killer toys. Only the first chapter of the game has been released.</p><p><br></p><p>You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned toy factory. Use your GrabPack to hack electrical circuits or nab anything from afar. Explore the mysterious facility&hellip; and don&rsquo;t get caught.</p><p><br></p><p>Information :&nbsp;</p><p>Thank you for downloading our guide that will help you to know everything about your favorite application.</p><p><br></p><p>This guide will provide you with some tips to know how to get the application on your device and how to use it easily.&nbsp;</p><p><br></p><p>SURPRISE!</p><p>Don&apos;t worry this guide is not only for reading but will help you to download your app and install it on your device.</p><p><br></p><p>Review APP:&nbsp;</p><p>PLEASE! Get a moment to give us a review on the store about your favorite app.</p><p><br></p><p>OFFICIAL APP:</p><p>RECOMMENDATION! Read the tips before using this option, to know how to use it.</p>",
+        "guide 2": "SORRY! The application still not found on android device. Link APPLICATION",
         "VIP": "false",
         "ID": "4",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
-        "image": "https://dadamou.github.io/poppy/download.jpg",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "image": "https://i.snipboard.io/fU0ya5.jpg",
+        "title": "The players will have a first-person view",
+        "guide": "<p>The players will have a first-person view, with their GrabPack visible and ready to use. The device is a wearable backpack that comes with an artificial hand that is attached by a steel wire and is extendable. It can be used to reach objects far away and to grab things, and the steel wire can also conduct electricity.</p><p>Information :&nbsp;</p><p>Thank you for downloading our guide that will help you to know everything about your favorite application.</p><p><br></p><p>This guide will provide you with some tips to know how to get the application on your device and how to use it easily.&nbsp;</p><p><br></p><p>SURPRISE!</p><p>Don&apos;t worry this guide is not only for reading but will help you to download your app and install it on your device.</p><p><br></p><p>Review APP:&nbsp;</p><p>PLEASE! Get a moment to give us a review on the store about your favorite app.</p><p><br></p><p>OFFICIAL APP:</p><p>RECOMMENDATION! Read the tips before using this option, to know how to use it.</p>",
+        "guide 2": "SORRY! The application still not found on android device. Link APPLICATION",
         "VIP": "false",
         "ID": "5",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
-        "image": "https://dadamou.github.io/poppy/unnamed.png",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "image": "https://i.snipboard.io/ZSEzI6.jpg",
+        "title": "Step 1",
+        "guide": "<p>This amazing Poppy is a wearable backpack, accompanied by 2 artificial hands attached via a steel wire. With this handy, state-of-the-art tool, there&apos;s no limit to what Playtime Co. employees can accomplish! The following list of features should help to show you what the GrabPack has to offer.</p><p><br></p><p>The hands&apos; powerful grip allows for the movement of heavy objects with ease!</p><p>A lengthy and flexible wire gives any employee the ability to reach whatever they may need, no matter the distance!</p><p>The steel wire makes conducting electricity a breeze!</p><p>The only limit is the length of your GrabPack&apos;s wire.</p><p><br></p><p>Won&apos;t you stick around? There&apos;s lots of fun in store for you. It&apos;s almost Playtime...</p>",
+        "guide 2": "SORRY! The application still not found on android device. Link APPLICATION",
         "VIP": "false",
         "ID": "6",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://i.snipboard.io/oqP7H0.jpg",
+        "title": "The GrabPack",
+        "guide": "<p>The GrabPack</p><p>This amazing GrabPack is a wearable backpack, accompanied by 2 artificial hands attached via a steel wire. With this handy, state-of-the-art tool, there&apos;s no limit to what Playtime Co. employees can accomplish! The following list of features should help to show you what the GrabPack has to offer.</p><p><br></p><p>The hands&apos; powerful grip allows for the movement of heavy objects with ease!</p><p>A lengthy and flexible wire gives any employee the ability to reach whatever they may need, no matter the distance!</p><p>The steel wire makes conducting electricity a breeze!</p><p>The only limit is the length of your GrabPack&apos;s wire.</p><p><br></p><p>Won&apos;t you stick around? There&apos;s lots of fun in store for you. It&apos;s almost Playtime...</p>",
+        "guide 2": "SORRY! The application still not found on android device. Link APPLICATION",
+        "VIP": "false",
+        "ID": "7",
+		
+        "show button": "true",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://i.snipboard.io/eW9PnH.jpg",
+        "title": "Step 2",
+        "guide": "<p>The players will have a first-person view, with their GrabPack visible and ready to use. The device is a wearable backpack that comes with an artificial hand that is attached by a steel wire and is extendable. It can be used to reach objects far away and to grab things, and the steel wire can also conduct electricity.</p><p>Information :&nbsp;</p><p>Thank you for downloading our guide that will help you to know everything about your favorite application.</p><p><br></p><p>This guide will provide you with some tips to know how to get the application on your device and how to use it easily.&nbsp;</p><p><br></p><p>SURPRISE!</p><p>Don&apos;t worry this guide is not only for reading but will help you to download your app and install it on your device.</p><p><br></p><p>Review APP:&nbsp;</p><p>PLEASE! Get a moment to give us a review on the store about your favorite app.</p><p><br></p><p>OFFICIAL APP:</p><p>RECOMMENDATION! Read the tips before using this option, to know how to use it.</p>",
+        "guide 2": "SORRY! The application still not found on android device. Link APPLICATION",
+        "VIP": "false",
+        "ID": "8",
+		
+        "show button": "true",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://i.snipboard.io/P0c7be.jpg",
+        "title": "Step 3",
+        "guide": "<p>The GrabPack</p><p>This amazing GrabPack is a wearable backpack, accompanied by 2 artificial hands attached via a steel wire. With this handy, state-of-the-art tool, there&apos;s no limit to what Playtime Co. employees can accomplish! The following list of features should help to show you what the GrabPack has to offer.</p><p><br></p><p>The hands&apos; powerful grip allows for the movement of heavy objects with ease!</p><p>A lengthy and flexible wire gives any employee the ability to reach whatever they may need, no matter the distance!</p><p>The steel wire makes conducting electricity a breeze!</p><p>The only limit is the length of your GrabPack&apos;s wire.</p><p><br></p><p>Won&apos;t you stick around? There&apos;s lots of fun in store for you. It&apos;s almost Playtime...</p>",
+        "guide 2": "SORRY! The application still not found on android device. Link APPLICATION",
+        "VIP": "false",
+        "ID": "9",
+		
+        "show button": "true",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/poppy/unnamed.png",
+        "title": "Step 4",
+        "guide": "<p>The GrabPack</p><p>This amazing GrabPack is a wearable backpack, accompanied by 2 artificial hands attached via a steel wire. With this handy, state-of-the-art tool, there&apos;s no limit to what Playtime Co. employees can accomplish! The following list of features should help to show you what the GrabPack has to offer.</p><p><br></p><p>The hands&apos; powerful grip allows for the movement of heavy objects with ease!</p><p>A lengthy and flexible wire gives any employee the ability to reach whatever they may need, no matter the distance!</p><p>The steel wire makes conducting electricity a breeze!</p><p>The only limit is the length of your GrabPack&apos;s wire.</p><p><br></p><p>Won&apos;t you stick around? There&apos;s lots of fun in store for you. It&apos;s almost Playtime...</p>",
+        "guide 2": "SORRY! The application still not found on android device. Link APPLICATION",
+        "VIP": "false",
+        "ID": "10",
+		
+        "show button": "true",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
       }
     ]
   }
