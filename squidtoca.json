@@ -76,81 +76,55 @@
     "items": [
       {
         "image": "https://dadamou.github.io/poppy/squid3.png",
-        "title": "Welcome",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "title": "Informaitions : ",
+        "guide": "Thank you for downloading our guide that will help you to know everything about your favorite application.",
+        "guide 2": "This guide will provide you some tips to know how to get the application on your device and how to use it easily. Tap Next",
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "20",
-        "button URL": "com.kiloo.subwaysurf"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://dadamou.github.io/poppy/squid2.png",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "title": "SURPRISE!",
+        "guide": " D'ont worry this guide is not only for reading but will helpyou to download your app and install it on your device.",
+        "guide 2": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
         "VIP": "false",
         "ID": "2",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://dadamou.github.io/poppy/squid1.png",
-        "title": ".",
+        "title": "OFFICIAL APP",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "guide 2": "PLEASE! Get a moment to give us a review on the store about your favorite app. Tap RATE US.",
         "VIP": "false",
         "ID": "3",
 		
-        "show button": "false",
-        "button text": "click here",
+        "show button": "true",
+        "button text": "RATE US",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://play.google.com/store/apps/details?id=com.toca.tips_squidapp"
       },
       {
         "image": "https://dadamou.github.io/poppy/squid2.png",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "title": "The Whole Story",
+        "guide": "<p>It all started with a tea party app, and now we&rsquo;re ten years and 45 inventions older having created spaces for aspiring sushi masters, hairdressers, medics, and have even built a completely new world, PHEW! We&rsquo;ve grown from two people with a big idea to a pretty huge team with limitless ambition (in fact, we kind of need a bigger office&hellip;).</p><p><br></p><p>Everything we make has the same objective, to capture the power of play and to celebrate the diversity and quirky things that we love in the everyday. We design from a kid&rsquo;s perspective, always testing with them first and learning from what they show us. They give us ideas, and sometimes they draw us pictures too.</p><p><br></p><p>We&rsquo;re proud to have grown a business that prioritizes inclusivity, open-mindedness, and playing with stuff. Our focus is never on winning, or doing something &lsquo;right&rsquo;, we provide a playground that only really comes alive when kids bring their magic along &ndash; it&rsquo;s why we make games rooted in play.</p><p><br></p><p>Imagination has always been our most important ingredient. We need it to come up with ideas, and kids need it to play &ndash; there&rsquo;s pretty much nothing a bit of imagination can&rsquo;t improve. In ten years, it hasn&rsquo;t failed us yet.</p>",
+        "guide 2": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
         "VIP": "false",
         "ID": "4",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
-      },
-      {
-        "image": "https://dadamou.github.io/poppy/squid3.png",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
-        "VIP": "false",
-        "ID": "5",
-		
-        "show button": "false",
-        "button text": "click here",
-        "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
-      },
-      {
-        "image": "https://dadamou.github.io/poppy/squid1.png",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
-        "VIP": "false",
-        "ID": "6",
-		
-        "show button": "false",
-        "button text": "click here",
-        "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
       }
     ]
   }
