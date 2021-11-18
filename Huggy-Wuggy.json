@@ -39,28 +39,28 @@
       "applovin rewarded": "6405227d47f8fe55",
 	  
       "start Activity Inter": ".",
-      "start Activity Native": "admob",
+      "start Activity Native": "facebook",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": ".",
-      "data Activity Native": "admob",
+      "data Activity Inter": "facebook",
+      "data Activity Native": "facebook",
       "data Activity Banner": ".",
       "data Activity Rewarded": ".",
 	  
       "guide Activity Banner": ".",
-      "guide Activity Native": "admob",
+      "guide Activity Native": "facebook",
 	  
       "clicks to show ad in list": "2",
-      "ad position in list": "3",
+      "ad position in list": "4",
 	  
       "show faces rate dialog": "false",
       "show faces rate": "false",
 	  
-      "clicks to stop showing banner ad": "2",
+      "clicks to stop showing banner ad": "1",
       "time unit banner": "minute",
       "time banner": "1",
 	  
-      "clicks to stop showing native ad": "2",
+      "clicks to stop showing native ad": "1",
       "time unit native": "second",
       "time native": "40",
 	  
@@ -82,7 +82,7 @@
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -95,7 +95,7 @@
         "VIP": "false",
         "ID": "2",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -108,7 +108,7 @@
         "VIP": "false",
         "ID": "3",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
@@ -121,7 +121,7 @@
         "VIP": "false",
         "ID": "4",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -134,7 +134,7 @@
         "VIP": "false",
         "ID": "5",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
@@ -147,7 +147,7 @@
         "VIP": "false",
         "ID": "6",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
@@ -160,7 +160,7 @@
         "VIP": "false",
         "ID": "7",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
@@ -173,7 +173,7 @@
         "VIP": "false",
         "ID": "8",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
@@ -186,7 +186,7 @@
         "VIP": "false",
         "ID": "9",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
@@ -199,7 +199,7 @@
         "VIP": "false",
         "ID": "10",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
