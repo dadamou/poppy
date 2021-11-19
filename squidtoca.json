@@ -29,23 +29,23 @@
       "unity rewarded": "Rewarded_Android",
       "unity app id": "4305873",
 	  
-      "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook banner": "641097003993660_641562447280449",
+      "facebook interstitial": "641097003993660_641097523993608",
+      "facebook native": "641097003993660_641562893947071",
       "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
-	  "applovin banner": "13482be8f771efc7",
-      "applovin interstitial": "37c0fd7e2939a3be",
-      "applovin rewarded": "6405227d47f8fe55",
+	  "applovin banner": "179d10391ca9af18",
+      "applovin interstitial": "211e29832a09d72c",
+      "applovin rewarded": "956d358f0af1c378",
 	  
-      "start Activity Inter": ".",
+      "start Activity Inter": "facebook",
       "start Activity Native": "facebook",
-      "start Activity Banner": ".",
+      "start Activity Banner": "applovin",
 	  
       "data Activity Inter": ".",
-      "data Activity Native": ".",
-      "data Activity Banner": ".",
-      "data Activity Rewarded": ".",
+      "data Activity Native": "facebook",
+      "data Activity Banner": "applovin",
+      "data Activity Rewarded": "applovin",
 	  
       "guide Activity Banner": "facebook",
       "guide Activity Native": ".",
@@ -183,7 +183,7 @@
         "title": "I deposited money into Tips for Happy squid Toca boca Life. But I don't see it added to my balance.",
         "guide": "<p>It may take some time for the app company/developer to process the payment and credit to your account. Please be patient for 24-48 hours and see if the amount gets credited to your account. If not, please contact the development company using the contact details given below.</p>",
         "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "9",
 		
         "show button": "false",
