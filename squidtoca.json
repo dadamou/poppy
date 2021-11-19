@@ -38,17 +38,17 @@
       "applovin interstitial": "211e29832a09d72c",
       "applovin rewarded": "956d358f0af1c378",
 	  
-      "start Activity Inter": "facebook",
-      "start Activity Native": "facebook",
+      "start Activity Inter": "applovin",
+      "start Activity Native": "applovin",
       "start Activity Banner": "applovin",
 	  
-      "data Activity Inter": ".",
-      "data Activity Native": "facebook",
+      "data Activity Inter": "applovin",
+      "data Activity Native": "applovin",
       "data Activity Banner": "applovin",
       "data Activity Rewarded": "applovin",
 	  
-      "guide Activity Banner": "facebook",
-      "guide Activity Native": ".",
+      "guide Activity Banner": "applovin",
+      "guide Activity Native": "applovin",
 	  
       "clicks to show ad in list": "2",
       "ad position in list": "4",
