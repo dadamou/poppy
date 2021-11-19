@@ -11,8 +11,8 @@
       "tapdaq native": "default",
       "tapdaq interstitial": "default",
       "tapdaq rewarded": "default",
-      "tapdaq app key": "61182d0386c31c4e07c109a0",
-      "tapdaq client key": "7c263146-7e2b-4a30-b721-0e9dae35904f",
+      "tapdaq app key": "6197bebc86c31c4e07c112ea",
+      "tapdaq client key": "b0147e20-0c54-4d34-80f3-106d38cc212b",
 	  
       "admob banner": "ca-app-pub-3940256099942544/6300978111",
       "admob native": "ca-app-pub-3940256099942544/2247696110",
@@ -38,17 +38,17 @@
       "applovin interstitial": "211e29832a09d72c",
       "applovin rewarded": "956d358f0af1c378",
 	  
-      "start Activity Inter": "applovin",
-      "start Activity Native": "applovin",
-      "start Activity Banner": "applovin",
+      "start Activity Inter": "tapdaq",
+      "start Activity Native": "tapdaq",
+      "start Activity Banner": "tapdaq",
 	  
-      "data Activity Inter": "applovin",
-      "data Activity Native": "applovin",
-      "data Activity Banner": "applovin",
-      "data Activity Rewarded": "applovin",
+      "data Activity Inter": "tapdaq",
+      "data Activity Native": "tapdaq",
+      "data Activity Banner": "tapdaq",
+      "data Activity Rewarded": "tapdaq",
 	  
-      "guide Activity Banner": "applovin",
-      "guide Activity Native": "applovin",
+      "guide Activity Banner": "tapdaq",
+      "guide Activity Native": "tapdaq",
 	  
       "clicks to show ad in list": "2",
       "ad position in list": "4",
