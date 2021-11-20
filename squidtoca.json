@@ -64,9 +64,9 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "false",
-      "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
-      "CPA URL": "com.outfit7.talkingtomgoldrun",
+      "show CPA": "true",
+      "CPA image": "https://dadamou.github.io/poppy/cpa.png",
+      "CPA URL": "https://smrturl.co/a041404",
 	  
       "is app suspended": "false",
       "update title": "A new update for this app",
