@@ -40,17 +40,17 @@
 	  
       "start Activity Inter": ".",
       "start Activity Native": "facebook",
-      "start Activity Banner": "facebook",
+      "start Activity Banner": ".",
 	  
       "data Activity Inter": "facebook",
-      "data Activity Native": "facebook",
+      "data Activity Native": "admob",
       "data Activity Banner": "facebook",
       "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": "facebook",
+      "guide Activity Banner": ".",
       "guide Activity Native": "facebook",
 	  
-      "clicks to show ad in list": "2",
+      "clicks to show ad in list": "3",
       "ad position in list": "4",
 	  
       "show faces rate dialog": "false",
