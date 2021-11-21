@@ -14,9 +14,9 @@
       "tapdaq app key": "6197bebc86c31c4e07c112ea",
       "tapdaq client key": "b0147e20-0c54-4d34-80f3-106d38cc212b",
 	  
-      "admob banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob native": "ca-app-pub-3940256099942544/2247696110",
-      "admob interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob banner": "ca-app-pub-2284112404227748/1354689597",
+      "admob native": "ca-app-pub-2284112404227748/2476199570",
+      "admob interstitial": "ca-app-pub-2284112404227748/5102362914",
       "admob rewarded": "ca-app-pub-3940256099942544/5224354917",
 	  
       "ironsource interstitial": "DefaultInterstitial",
@@ -29,26 +29,26 @@
       "unity rewarded": "Rewarded_Android",
       "unity app id": "4305873",
 	  
-      "facebook banner": "641097003993660_641562447280449",
-      "facebook interstitial": "641097003993660_641097523993608",
-      "facebook native": "641097003993660_641562893947071",
+      "facebook banner": "641097003993660_642815843821776",
+      "facebook interstitial": "641097003993660_642816217155072",
+      "facebook native": "641097003993660_642816463821714",
       "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
 	  "applovin banner": "179d10391ca9af18",
       "applovin interstitial": "211e29832a09d72c",
       "applovin rewarded": "956d358f0af1c378",
 	  
-      "start Activity Inter": "tapdaq",
-      "start Activity Native": "tapdaq",
-      "start Activity Banner": "tapdaq",
+      "start Activity Inter": ".",
+      "start Activity Native": "admob",
+      "start Activity Banner": ".",
 	  
-      "data Activity Inter": "tapdaq",
-      "data Activity Native": "tapdaq",
-      "data Activity Banner": "tapdaq",
-      "data Activity Rewarded": "tapdaq",
+      "data Activity Inter": "admob",
+      "data Activity Native": "admob",
+      "data Activity Banner": ".",
+      "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": "tapdaq",
-      "guide Activity Native": "tapdaq",
+      "guide Activity Banner": ".",
+      "guide Activity Native": "admob",
 	  
       "clicks to show ad in list": "2",
       "ad position in list": "4",
@@ -64,7 +64,7 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "true",
+      "show CPA": "false",
       "CPA image": "https://dadamou.github.io/poppy/cpa.png",
       "CPA URL": "https://smrturl.co/a041404",
 	  
@@ -183,7 +183,7 @@
         "title": "I deposited money into Tips for Happy squid Toca boca Life. But I don't see it added to my balance.",
         "guide": "<p>It may take some time for the app company/developer to process the payment and credit to your account. Please be patient for 24-48 hours and see if the amount gets credited to your account. If not, please contact the development company using the contact details given below.</p>",
         "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "9",
 		
         "show button": "false",
