@@ -43,11 +43,11 @@
       "start Activity Banner": ".",
 	  
       "data Activity Inter": "facebook",
-      "data Activity Native": ".",
-      "data Activity Banner": ".",
+      "data Activity Native": "facebook",
+      "data Activity Banner": "facebook",
       "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": ".",
+      "guide Activity Banner": "facebook",
       "guide Activity Native": "facebook",
 	  
       "clicks to show ad in list": "1",
