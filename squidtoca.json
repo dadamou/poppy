@@ -40,7 +40,7 @@
 	  
       "start Activity Inter": "facebook",
       "start Activity Native": "facebook",
-      "start Activity Banner": ".",
+      "start Activity Banner": "facebook",
 	  
       "data Activity Inter": "facebook",
       "data Activity Native": "facebook",
