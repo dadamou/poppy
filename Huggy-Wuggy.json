@@ -16,8 +16,8 @@
 	  
       "admob banner": "ca-app-pub-2284112404227748/9827844477",
       "admob native": "ca-app-pub-2284112404227748/1902937201",
-      "admob interstitial": "ca-app-pub-2284112404227748/2983428044",
-      "admob rewarded": "ca-app-pub-2284112404227748/5697027775",
+      "admob interstitial": "ca-app-pub-2284112404227748/8777135613",
+      "admob rewarded": "ca-app-pub-2284112404227748/8665454970",
 	  
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
@@ -34,20 +34,20 @@
       "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
-	  "applovin banner": "d2a2666fa89b4af7",
-      "applovin interstitial": "b36e2d72f3ff60ca",
-      "applovin rewarded": "18a548b4d5663018",
+      "applovin banner": "13482be8f771efc7",
+      "applovin interstitial": "37c0fd7e2939a3be",
+      "applovin rewarded": "6405227d47f8fe55",
 	  
-      "start Activity Inter": ".",
+      "start Activity Inter": "admob",
       "start Activity Native": "admob",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": ".",
+      "data Activity Inter": "admob",
       "data Activity Native": "admob",
-      "data Activity Banner": "applovin",
-      "data Activity Rewarded": "applovin",
+      "data Activity Banner": "admob",
+      "data Activity Rewarded": "admob",
 	  
-      "guide Activity Banner": ".",
+      "guide Activity Banner": "admob",
       "guide Activity Native": "admob",
 	  
       "clicks to show ad in list": "2",
@@ -62,7 +62,7 @@
 	  
       "clicks to stop showing native ad": "1",
       "time unit native": "second",
-      "time native": "40",
+      "time native": "30",
 	  
       "show CPA": "true",
       "CPA image": "https://dadamou.github.io/poppy/cpa.png",
@@ -144,7 +144,7 @@
         "title": "I can't able to invite friends to Poppy Playtime Walkthrough, request lives, or share points.",
         "guide": "<p>To invite friends you may need to sync the app with your contacts or social networks such as Facebook, Twitter, etc. It may be slow sometimes as the app server needs to handle tons of data.</p><p>If this problem persists to you after waiting, you may contact the developer of Poppy Playtime Walkthrough, using the above-mentioned email address. Briefly mention your problem and attach a few screenshots if possible. So they can help you quickly.</p>",
         "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "6",
 		
         "show button": "true",
@@ -183,7 +183,7 @@
         "title": "I deposited money into Tips for My Poppy Playtime. But I don't see it added to my balance.",
         "guide": "<p>It may take some time for the app company/developer to process the payment and credit to your account. Please be patient for 24-48 hours and see if the amount gets credited to your account. If not, please contact the development company using the contact details given below.</p>",
         "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "9",
 		
         "show button": "true",
@@ -196,7 +196,7 @@
         "title": "RECOMMENDATION!",
         "guide": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p>",
         "guide 2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "10",
 		
         "show button": "true",
