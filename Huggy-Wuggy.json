@@ -38,14 +38,14 @@
       "applovin interstitial": "b36e2d72f3ff60ca",
       "applovin rewarded": "18a548b4d5663018",
 	  
-      "start Activity Inter": "admob",
+      "start Activity Inter": ".",
       "start Activity Native": "admob",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": "admob",
+      "data Activity Inter": ".",
       "data Activity Native": "admob",
-      "data Activity Banner": ".",
-      "data Activity Rewarded": ".",
+      "data Activity Banner": "applovin",
+      "data Activity Rewarded": "applovin",
 	  
       "guide Activity Banner": ".",
       "guide Activity Native": "admob",
@@ -144,7 +144,7 @@
         "title": "I can't able to invite friends to Poppy Playtime Walkthrough, request lives, or share points.",
         "guide": "<p>To invite friends you may need to sync the app with your contacts or social networks such as Facebook, Twitter, etc. It may be slow sometimes as the app server needs to handle tons of data.</p><p>If this problem persists to you after waiting, you may contact the developer of Poppy Playtime Walkthrough, using the above-mentioned email address. Briefly mention your problem and attach a few screenshots if possible. So they can help you quickly.</p>",
         "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "6",
 		
         "show button": "true",
