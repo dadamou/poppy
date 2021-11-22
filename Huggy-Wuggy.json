@@ -43,7 +43,7 @@
       "start Activity Banner": ".",
 	  
       "data Activity Inter": "admob",
-      "data Activity Native": ".",
+      "data Activity Native": "admob",
       "data Activity Banner": ".",
       "data Activity Rewarded": ".",
 	  
@@ -51,7 +51,7 @@
       "guide Activity Native": "admob",
 	  
       "clicks to show ad in list": "3",
-      "ad position in list": "4",
+      "ad position in list": "5",
 	  
       "show faces rate dialog": "false",
       "show faces rate": "false",
