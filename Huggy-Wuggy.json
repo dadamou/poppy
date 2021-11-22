@@ -14,10 +14,10 @@
       "tapdaq app key": "61182d0386c31c4e07c109a0",
       "tapdaq client key": "7c263146-7e2b-4a30-b721-0e9dae35904f",
 	  
-      "admob banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob native": "ca-app-pub-4622201711950449/9968510933",
-      "admob interstitial": "ca-app-pub-4622201711950449/3103719686",
-      "admob rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "admob banner": "ca-app-pub-2284112404227748/9827844477",
+      "admob native": "ca-app-pub-2284112404227748/1902937201",
+      "admob interstitial": "ca-app-pub-2284112404227748/2983428044",
+      "admob rewarded": "ca-app-pub-2284112404227748/5697027775",
 	  
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
@@ -34,23 +34,23 @@
       "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
-	  "applovin banner": "13482be8f771efc7",
-      "applovin interstitial": "37c0fd7e2939a3be",
-      "applovin rewarded": "6405227d47f8fe55",
+	  "applovin banner": "d2a2666fa89b4af7",
+      "applovin interstitial": "b36e2d72f3ff60ca",
+      "applovin rewarded": "18a548b4d5663018",
 	  
-      "start Activity Inter": ".",
-      "start Activity Native": "facebook",
+      "start Activity Inter": "admob",
+      "start Activity Native": "admob",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": ".",
-      "data Activity Native": ".",
+      "data Activity Inter": "admob",
+      "data Activity Native": "admob",
       "data Activity Banner": ".",
       "data Activity Rewarded": ".",
 	  
       "guide Activity Banner": ".",
-      "guide Activity Native": "facebook",
+      "guide Activity Native": "admob",
 	  
-      "clicks to show ad in list": "3",
+      "clicks to show ad in list": "2",
       "ad position in list": "5",
 	  
       "show faces rate dialog": "false",
