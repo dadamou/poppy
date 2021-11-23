@@ -44,10 +44,10 @@
 	  
       "data Activity Inter": "admob",
       "data Activity Native": "admob",
-      "data Activity Banner": "admob",
+      "data Activity Banner": ".",
       "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": "admob",
+      "guide Activity Banner": ".",
       "guide Activity Native": "admob",
 	  
       "clicks to show ad in list": "2",
