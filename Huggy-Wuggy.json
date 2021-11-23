@@ -16,7 +16,7 @@
 	  
       "admob banner": "ca-app-pub-2284112404227748/9827844477",
       "admob native": "ca-app-pub-2284112404227748/1902937201",
-      "admob interstitial": "ca-app-pub-2284112404227748/8777135613",
+      "admob interstitial": "ca-app-pub-2284112404227748/2983428044",
       "admob rewarded": "ca-app-pub-2284112404227748/8665454970",
 	  
       "ironsource interstitial": "DefaultInterstitial",
@@ -44,8 +44,8 @@
 	  
       "data Activity Inter": "admob",
       "data Activity Native": "admob",
-      "data Activity Banner": "admob",
-      "data Activity Rewarded": "admob",
+      "data Activity Banner": ".",
+      "data Activity Rewarded": ".",
 	  
       "guide Activity Banner": "admob",
       "guide Activity Native": "admob",
